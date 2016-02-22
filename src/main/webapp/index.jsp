@@ -21,8 +21,10 @@
 			<h1 align="center">{{message}}</h1>
 		</div>
 		<div>
-			<h3>
+			<h2>
 				<span class="label label-default">Available functions</span>
+			</h2>
+			<h3>
 				<input type="button" class="btn btn-success" value="Add Company" ng-click="setOperationName('addCompany')">
 				<input type="button" class="btn btn-success" ng-click="setOperationName('getAllCompanies');getAllCompanies()" value="Get all companies">
 				<input type="button" class="btn btn-success" ng-click="setOperationName('getCompanyDetails')" value="Get company details">
