@@ -1,0 +1,13 @@
+{
+  "name": "CompanyOperations_Rest_Angular",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
