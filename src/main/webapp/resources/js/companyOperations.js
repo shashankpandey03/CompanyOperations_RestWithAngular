@@ -8,7 +8,7 @@ angular.module('companyOperationsApp').controller('companyOperationsController',
 	$scope.companyId;
 	$scope.operation = {};
 	$scope.beneficialOwners = [];
-	$scope.baseURL = '/CompanyOperations/';
+	$scope.baseURL = '';
 	$scope.showCompanyDiv = false;
 	$scope.beneficialOwner = null;
 	
