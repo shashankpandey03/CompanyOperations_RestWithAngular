@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.company.CompanyConstants;
+import com.company.constants.CompanyConstants;
 import com.company.pojo.Company;
 import com.company.pojo.CompanyResponse;
 import com.company.service.CompanyOperationsService;
